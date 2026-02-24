@@ -8,6 +8,6 @@ Machine and deep learning analysis of gut microbiome composition in athletes vs.
 | `all_studies_merged_json.biom`            | OTU table in BIOM format, used for taxonomic composition and abundance analysis. |
 | `all_studies_mapping.txt`                 | Metadata file including participant IDs, status (athlete vs. non-athlete), and associated physical fitness metrics. |
 | 'Table_1.docx'                            | Summary table listing all studies included in this secondary analysis, with relevant accession numbers, cohort descriptions, and data source links. |
-| 'SuppFigure1.png'                         | Alpha Diversity Metrics by Person_Type (Athlete, Non-athlete) |
-| 'SuppFigure2.png'                         | Training and Validation Metrics Over Epochs for the Deep Neural Network |
-| 'Supp_Figure_Legends.md'                  | Full supplemental figure descriptions |
+| 'SuppFigure1.png'                         | Alpha Diversity Metrics by Person_Type (Athlete, Non-athlete). |
+| 'SuppFigure2.png'                         | Training and Validation Metrics Over Epochs for the Deep Neural Network. |
+| 'Supp_Figure_Legends.md'                  | Full supplemental figure descriptions. |
