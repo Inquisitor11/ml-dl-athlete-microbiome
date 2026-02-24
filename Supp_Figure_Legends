@@ -1,0 +1,14 @@
+# Supplemental Figure Legends
+
+## Supplementary Figure 1. Alpha Diversity Metrics by Person_Type
+
+Bar plots of Observed (left), Shannon (center), and Simpson (right) diversity indices for Athletes (purple) vs. Non‐Athletes (yellow). 
+Error bars represent mean ± SD, and “ns” indicates a non‐significant difference (p ≥ 0.05) for each comparison. These results suggest 
+no substantial difference in alpha diversity between the two groups.
+
+## Supplementary Figure 2. Training and Validation Metrics Over Epochs for the Deep Neural Network
+
+(A) Shows the loss curves for the training set (red) and validation set (blue), illustrating how the network’s error decreases as the 
+model learns. (B) Depicts the accuracy trajectories during training (red) versus validation (blue). Both panels illustrate the model’s 
+convergence behavior and the tradeoff between underfitting (high loss, low accuracy) and overfitting (diverging training vs. validation 
+performance) across increasing epochs.
